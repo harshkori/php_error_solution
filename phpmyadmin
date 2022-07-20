@@ -1,0 +1,2 @@
+1)---#1366 - Incorrect integer value: 'id' for column 'id' at row 1
+Solution :- SET FOREIGN_KEY_CHECKS=0;
